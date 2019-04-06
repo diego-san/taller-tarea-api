@@ -1,8 +1,9 @@
-body{
-    background: #86989B;
+.er{
+    background: #30799B;
 }
 
 .fondo{
     background: #86989B;
     height: 400px;
+    padding-top: 100px;
 }
